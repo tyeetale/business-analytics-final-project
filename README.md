@@ -2,7 +2,7 @@
 
 BUSF-SHU - 210 Business Analytics | Sping 2020 | Final Project
 
-- Built, compared, and optimized various Machine Learning models such as logistic regression, KNN, and XGBoost to pinpoint relevant factors conducive to predicting couriers’ decisions and behavior. Narrowed down the error of delivery time prediction to around 1.5 minutes.
+- Built, compared, and optimized various Machine Learning models such as logistic regression and XGBoost to pinpoint relevant factors conducive to predicting couriers’ decisions and behavior. Narrowed down the error of delivery time prediction to around 1.5 minutes.
 
 ## Competiton Overview
 
