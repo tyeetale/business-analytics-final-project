@@ -12,4 +12,4 @@ BUSF-SHU - 210 Business Analytics | Sping 2020 | Final Project
 
 ## Project Report
 
-Please see `Final Report BA Eleme (May 22nd Due).pdf`
+Please see `Final Report BA Eleme (May 22nd Due).pdf`.
