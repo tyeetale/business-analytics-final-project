@@ -1,4 +1,4 @@
-# Business_Analytics_Final_project
+# Business Analytics Final Project: Elema Data Analysis
 
 BUSF-SHU - 210 Business Analytics | Sping 2020 | Final Project
 
